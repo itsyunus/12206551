@@ -1,4 +1,4 @@
-# AffordMed Assignment Submission – 12206551
+## AffordMed Assignment Submission – 12206551
 
 This repository contains my full submission for the AffordMed evaluation task. It includes:
 
@@ -50,8 +50,6 @@ pages/ – sample navigation views
 
 🧪 Log Example
 logger.error('frontend', 'utils', 'Invalid user input', token);
-📸 Screenshots
-Home Page UI	Logging Trigger
 
 🖥️ Backend Test Submission
 Powered by Node.js + Express, this backend simulates common API endpoints and logs server-side actions.
@@ -71,12 +69,11 @@ POST http://20.244.56.144/evaluation-service/register
 with JSON body:
 
 {
-  "email": "your_email@example.com",
-  "name": "Your Name",
-  "mobileNo": "9876543210",
-  "githubUsername": "yourGitHub",
-  "rollNo": "12206551",
-  "accessCode": "access_code_from_email"
+  "email": "ramakrishna@abc.edu",
+  "name": "ram krishna",
+  "githubUsername": "itsyunus",
+  "rollNo": "aa1bb",
+  "accessCode": "xgAsNC"
 }
 Get Auth Token
 POST http://20.244.56.144/evaluation-service/auth
@@ -130,9 +127,3 @@ Submitted by: Shaik Mohammad Yunus
 Roll No: 12206551
 Email: yunussm0@gmail.com
 GitHub: @itsyunus
-
-### ✅ Next Steps for You
-- Replace any `"YOUR_BEARER_TOKEN"` placeholders with your real token (if safe to share).
-- Push the repo to GitHub.
-
-Let me know if you want this saved into a `.md` file or zipped along with folder structure!
