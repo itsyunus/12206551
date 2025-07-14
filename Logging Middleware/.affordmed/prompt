@@ -1,0 +1,9 @@
+AffordMed Logging Middleware Assignment
+
+Requirements:
+- Create reusable log(stack, level, package, message) function
+- Support both Node.js and React environments
+- POST to http://20.244.56.144/evaluation-service/logs
+- Authorization token support via parameter or environment variable
+- TypeScript preferred with clean, production-ready code
+- Comprehensive usage examples and documentation
